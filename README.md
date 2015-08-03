@@ -1,2 +1,3 @@
 # Spacemacs-30-day-challenge
-30 min for 30 days and you'll feel like that weird hacker from Password: Swordfish
+
+This may become a 30 day challenge for learning Spacemacs piece-by-piece. Currently, it is a one day challenge for installing spacemacs. 
