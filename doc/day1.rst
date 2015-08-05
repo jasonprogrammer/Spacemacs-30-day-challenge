@@ -123,6 +123,9 @@ II. **Vim is a widely supported, much-loved standard for key bindings: if you kn
     *overleaf* over it or will offer it in the browser.
 
 III. **Vim is great fun - it will make you feel like one of those superhackers from a cliche Hollywood movie**
+.. image:: /home/kraemers/Dropbox/projects/Spacemacs-30-day-challenge/img/swordfish.jpg
+
+*This could be you!*
 
 2.2 Try it out with the vim tutorial
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
