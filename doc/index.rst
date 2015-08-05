@@ -11,8 +11,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   ./doc/day1
-   ./doc/day2
+   day1
+   day2
 
 
 
