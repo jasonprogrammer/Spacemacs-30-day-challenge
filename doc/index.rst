@@ -1,6 +1,8 @@
 The spacemacs 30 day challenge
 ==============================
 
+*Hi there! I am still using spacemacs, and it is still very much awesome. Unfortunately, I won't have time to return to this project before christmas. I was considering removing this repo, but there was some good feedback. So I am leaving it here for now, with the promise that I will return to this project in the new year*
+
 Current lessons
 -------------------------------
 
