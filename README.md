@@ -1,11 +1,4 @@
-<div id="table-of-contents">
-<h2>Table of Contents</h2>
-<div id="text-table-of-contents">
-<ul>
-<li><a href="#sec-1">1. Spacemacs-30-day-challenge</a></li>
-</ul>
-</div>
-</div>
+*Hi there! I am still using spacemacs, and it is still very much awesome. Unfortunately, I won't have time to return to this project before christmas. I was considering removing this repo, but there was some good feedback. So I am leaving it here for now, with the promise that I will return to this project in the new year*
 
 # Spacemacs-30-day-challenge<a id="sec-1" name="sec-1"></a>
 
