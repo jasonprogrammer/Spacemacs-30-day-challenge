@@ -1,4 +1,4 @@
-Day 1 - vim skill level: Stormtropper
+Day 1 - vim skill level: Stormtrooper
 =====================================
 
     :Author: Stephen Kraemer
